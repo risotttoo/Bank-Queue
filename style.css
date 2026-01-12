@@ -1,0 +1,8 @@
+body { font-family: 'Segoe UI', Tahoma, sans-serif; text-align: center; }
+.queue-container { display: flex; gap: 10px; justify-content: center; margin-top: 20px; }
+.customer-box { 
+    padding: 20px; 
+    border: 2px solid #4285f4; 
+    border-radius: 8px; 
+    background: #f8f9fa;
+}
